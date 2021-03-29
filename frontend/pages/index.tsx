@@ -1,7 +1,3 @@
-export default function Home() {
-  return (
-    <div>
-        Hello PMDb!!
-    </div>
-  )
+export default function Home(): React.ReactElement {
+    return <div>Hello PMDb!!</div>;
 }
