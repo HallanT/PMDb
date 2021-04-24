@@ -7,3 +7,4 @@ haters/
 variables.env
 *.env
 .keystone
+config.ts
